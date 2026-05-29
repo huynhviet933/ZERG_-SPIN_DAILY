@@ -1,0 +1,6 @@
+{
+  "threads": 10,
+  "thread_start_delay": 10,
+  "action_delay": [3, 7],
+  "account_delay": [30, 60]
+}
